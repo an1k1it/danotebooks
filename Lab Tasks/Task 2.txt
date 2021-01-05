@@ -1,0 +1,32 @@
+Kindly write python codes for the following statements using functions from NumPy Library and submit a single Colab file link by 1 pm.
+1. Create a random array of 15 positive elements and perform the following operations with the help of Ufuncs.
+(a) Square Root
+(b) Exponent
+(c) Square
+(d) Log (base: 10, e, 2)
+(e) Ceiling
+(f) Floor
+(g) Near round integer
+(h) Check if a value is NAN, Infinite or Finite
+(i) Trigo operations - sin, cos, tan
+2. Create two random 2-D arrays of size 5 rows and 4 columns each and perform the following operations in an element-wise manner using inbuilt binary functions from Numpy.
+(a) Addition 
+(b) Multiplication
+(c) Division
+(d) Subtraction 
+(e) Power
+(f) Maximum & Minimum of two arrays
+(g) Mod of two arrays
+(h) Copy the sign of one array to another
+(i) Compare elements: >, >=, ==, <=, <
+(j) Logical Operations: AND, OR, XOR
+3. Create an array of size 30x10 having random elements in the range -100 to 100. Perform the following operations on the array.
+(a) Sum of the array
+(b) Mean of the array
+(c) Standard Deviation of the array
+(d) Variance of the array
+(e) Cumulative Sum for each column
+(f) Cumulative Sum for each row
+(g) Cumulative Product for each column
+(h) Cumulative Product for each row
+(i) Sort the array

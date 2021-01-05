@@ -1,0 +1,6 @@
+Lab Task 7 MS3 19-Oct-2020
+Kindly write and implement python codes for the Unit -2 (File Reading), Unit-3 (Data Preprocessing) & Unit-4 (Data Analysis covered till now) on the following dataset in the same Google Colab Notebook. Add text sections in the Notebook to comment on the findings based on functions applied from Unit 2-4.
+
+Data Set: https://archive.ics.uci.edu/ml/datasets/Student+Performance# (Download Student.zip and work on the 2 CSV files - https://archive.ics.uci.edu/ml/machine-learning-databases/00320/)
+
+Submit the task by 1 pm today.

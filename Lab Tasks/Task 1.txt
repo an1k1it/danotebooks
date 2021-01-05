@@ -1,0 +1,44 @@
+Name, Roll No, Class Year, Today's Date
+
+
+Kindly write python codes for the following statements using functions from NumPy Library and submit a single Colab file link by 1 pm.
+1. Create a 2-D Array of 8 rows and 10 columns with random elements and perform the following operations on them
+(a) Check the data type, shape and dimension of the created array
+(b) Perform addition & subtraction with itself
+(c) Multiply all the elements by 90
+(d) Divide all the elements by 0.05
+(e) Transpose the array
+2. Create two lists of 10 elements each with values ranging from 1-20 in any order of your choice. Then convert those lists into a two-dimensional array of 2 rows and 10 columns. Check the data type, shape and dimension of the created array.
+3. Create two 2-D arrays with initial values of zeros and ones having 4 rows and 5 columns each. Check the data type, shape and dimension of the created array. Also, compare the elements of the two array and print the largest of the two.
+4. Create a 3-D array using empty function. Check the data type, shape and dimension of the created array. Also, convert the data type of the created array to int type.
+5. Create two random 3-D arrays of size 2 subarrays with 6 rows and 3 columns each and perform the following operations in an element-wise manner.
+(a) Addition of the two arrays
+(b) Multiplication of the two arrays
+(c) Division of the two arrays
+(d) Subtraction of the two arrays
+(e) Raise to power with first array as base and second as power
+(f) Comparing the two arrays - Less than, Less than equal to, equal to, Greater than, Greater than equal to
+(g) Transpose of each array and then compare the two arrays as shown in part (f)
+(h) Interchange the 1st and 3rd column of the array
+(i) Interchange the 2nd row with 5th row, and 1st row with 4th row of the array
+(j) Inner dot product of the two arrays
+(k) Swap the axis of the two arrays
+6. Create a 2-D array of 9 rows and 9 columns with random values. Divide this array into 9 equal parts of 3 rows and 3 columns each. Fill these 9 parts with values from 1-9. Check whether the changes are done in the original array or the 9 parts. If the original array is getting changed, then create a copy of these 9 parts and then make the changes in filling the values from 1-9.
+7. Create a 2-D array with empty function of size 7 rows and 3 columns and fill the elements of 
+(a) each column with the column number
+(b) each row with the row number
+(c) shuffle the order of rows using negative indexing
+8. Create a 1-D array of following shoe brand names - (Nike, Adidas, Reebok, Puma, Adidas, Nike, Reebok, Reebok). Now create a random array of 8 rows and 4 columns with only positive numbers and multiply each element by 10,000. This array determines the price of the shoes of various brands having four variants. Based on the following conditions, display the prices of the shoes.
+(a) Price of all Adidas Shoes
+(b) Price of all Reebok Shoes
+(c) Price of all Puma Shoes
+(d) Price of all Nike Shoes
+(e) Price of all Adidas or Puma Shoes
+(f) Price of all Nike or Reebok Shoes
+(g) Price of only 2nd and 3rd variant of all Nike or Adidas shoes 
+(h) Price of all shoes other than that of Reebok brand
+(i) Price of 1st and 2nd variant of Shoes other than Nike or Puma brand.
+(j) Price of all the shoes which are more than 1500
+(k) Change the price of all the Reebok shoes to 5000
+(l) Print only 3rd and 4th variant prices of the all the shoe brands
+(m) Print only 1st and 2nd variant prices of first four brands of the shoes

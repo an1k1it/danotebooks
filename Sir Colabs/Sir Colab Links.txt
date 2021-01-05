@@ -1,0 +1,20 @@
+NumPy:
+https://colab.research.google.com/drive/1VvmpAorV0vuJT7hGhazOUB41hqEZm870?usp=sharing#scrollTo=tLnEnyoRXkZ7
+
+Pandas:
+https://colab.research.google.com/drive/1veJocTiZW9m_G9TRCkI4bzZjhhfiNZOX?usp=sharing
+
+Unit 2:
+https://colab.research.google.com/drive/1UhxpBjyu8YhtL9SkOCgDzhq_jkEsI9EG?usp=sharing#scrollTo=Voq6B0Fuf-o2
+
+Unit 3:
+https://colab.research.google.com/drive/1y2dG_obsp6coYeTYcwrtIvcUwlASQFun?usp=sharing#scrollTo=rWD4fPiNmQ8e
+
+Unit 4:
+https://colab.research.google.com/drive/14prNMNgW31TYawnnlxlqxdmofsH7VKo7?usp=sharing#scrollTo=kewDrv6twiIs
+
+Unit 5:
+https://colab.research.google.com/drive/1iR4EgJ4FICsqCkC7gixjRVwzV3AEC5YQ?usp=sharing#scrollTo=PlVIYrRM43l1
+
+Case Study :
+https://colab.research.google.com/drive/1kBLfJxLCY4tFIPRSup7XC3bc1VeyETBh?usp=sharing#scrollTo=aYui4pg7XwDP

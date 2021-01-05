@@ -1,0 +1,28 @@
+Kindly write python codes for the following statements using functions from Pandas Library and submit a single Colab file link by 1 pm.
+1. Create a Series of 10 elements and change their default index from numeric to alphabets starting from 'a'.
+2. Create a series of the following batting averages with batsmen name as the key. Name the index as Batsmen and value as Batting Average.
+(Rohit: 152, Shikhar: 102, Virat: 170, Shreyas: 95, Rishabh: 125, Hardik: 112, Ravindra: 88, Bhuvaneshwar: 75, Kuldeep: 67, Shami: 59, Bumrah: 12)
+Perform the following operations on the Series created.
+(a) Display the list of Batsmen with more than 100 as batting average
+(b) Display the list of Batsmen with less than 90 as batting average
+(c) Due to the good performance of the top six batsmen, increase their average by 25%
+(d) Due to the poor performance of the bottom three batsmen, decrease their average by 10%
+(e) Include a 12th man named 'Chahal' in the list without any batting average and display the new list
+(f) Display how many batting averages are NULL in the list
+(g) Display how many batting averages are NOT NULL in the list 
+(h) Due to injury to Shikhar, he was replaced by "Rahul" having a batting average of 120. Change that in the series and display the new series.
+3. Create another series of bowling average of the same team having the following averages.
+(Rohit: 102, Shikhar: 100, Virat: 121, Shreyas: 112, Rishabh: 100, Hardik: 42, Ravindra: 41, Bhuvaneshwar: 32, Kuldeep: 36, Shami: 27, Bumrah: 19)
+(a) Find out the ratio of the batting/bowling average for the two series
+(b) Find out the difference of the batting & bowling average for the two series
+(c) Display the players having the ratio of the two averages of more than 1.5
+4. Create a dataframe of 10 students for their complete graduation (3 years) with 3 columns - Name, Year, Percentage 
+e.g. (Ram, 2017, 75), (Ram, 2018, 77), (Ram, 2019, 80), (Reeta, 2017, 83), (Reeta, 2018, 89), (Reeta, 2019, 85), etc. (This will make 30 entries in the dataframe for the 10 students across 3 years [2017-2018-2019])
+Perform the following operations.
+(a) Display the first 8 entries of the dataframe
+(b) Display the last 5 entries of the dataframe
+(c) Change the index values of the dataframe with numbers written as text. e.g. 1 replaced as One, 2 replaced as Two, etc.
+(d) Add a grade column with no values
+(e) Display the student details only for the year 2018
+(f) Display the student details having more than 75% marks in any year
+(g) Find the transpose of the dataframe

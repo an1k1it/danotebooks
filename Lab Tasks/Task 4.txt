@@ -1,0 +1,20 @@
+Kindly write python codes for the following statements using functions from Pandas Library and submit a single Colab file link by 1 pm.
+1. Create a series of size 20 with random elements in any range and perform the following operations
+(a) Change the index from 'a' to 't'
+(b) Assign the values of 4th and 5th element of the series at 'm' and 'n' index position
+(c) Assign 10 value to the last 3 elements of the series
+(d) Display the series values from index 'e' to 'r'
+(e) Using loc function, display first 10 elements of series
+(f) Using iloc function, display last 10 elements of series
+(g) Sort the values of the series
+2. Create two dataframes - First having 4 rows and 4 columns and Second with 3 rows and 4 columns, with random data values of your choice, and perform following operations
+(a) Perform additions of the two dataframes
+(b) Perform difference of the two dataframes
+(c) Change the diagonal values in the first dataframe to NaN and then perform addition and substraction of the two dataframes 
+(d) While adding the two dataframes, fill 100 in place of Nan values.
+(e) Perform Division of two dataframes
+(f) Write a function to print difference between highest and lowest values of each column of both the dataframes
+(g) Write a function to print difference between highest and lowest values of each row of both the dataframes
+(h) Sort the index of both the dataframes columnwise and row-wise
+(i) Sort the values of both the dataframes column-wise and row-wise
+(j) Find the rank of elements in 2nd column of both the dataframes

@@ -1,0 +1,2 @@
+Lab Task 6 MS3 12-Oct-2020
+Kindly write and implement python codes for the Unit-3 (Data Preprocessing) Google Colab Notebook. Submit the task by 1 pm today.
